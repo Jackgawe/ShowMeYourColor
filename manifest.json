@@ -1,22 +1,20 @@
 {
-  "id": "dev.yofukashino.VoiceMessages",
-  "name": "VoiceMessages",
-  "description": "Allows Users to send voice messages from desktop",
+  "id": "dev.yofukashino.ColoredUsernames",
+  "name": "ColoredUsernames",
+  "description": "Adds random colors to usernames in chat, similar to IRC",
   "author": {
     "discordID": "1121961711080050780",
     "name": "Nanakusa",
     "github": "yofukashino"
   },
-  "version": "1.0.002",
+  "version": "1.0.0",
   "updater": {
-    "id": "dev.yofukashino.VoiceMessages",
+    "id": "dev.yofukashino.ColoredUsernames",
     "type": "store"
   },
   "license": "MIT",
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
-  "source": "https://github.com/yofukashino/VoiceMessages",
-  "image": [
-    "https://raw.githubusercontent.com/yofukashino/VoiceMessages/76f5f01e4d92078c58986a2e9845c8ed9304cb6d/assets/preview.png"
-  ]
-}
+  "source": "https://github.com/yofukashino/ColoredUsernames",
+  "image": []
+} 
