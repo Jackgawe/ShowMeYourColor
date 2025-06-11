@@ -24,7 +24,3 @@ Once enabled, usernames in chat will appear in random colors. Each user is assig
 ## Contributing
 
 Pull requests and suggestions are welcome!
-
-## License
-
-MIT 
